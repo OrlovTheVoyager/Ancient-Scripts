@@ -2,3 +2,6 @@ json/*
 img/*
 Gemfile.lock
 .byebug_history
+
+!json/.gitkeep 
+!img/.gitkeep 
