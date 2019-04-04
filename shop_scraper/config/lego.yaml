@@ -1,0 +1,8 @@
+catalog_url:        'https://shop.lego.com/en-US/category/new?page=8'
+shop_name:          'LEGO'
+link_class:         '[data-test="product-leaf-title-link"]'
+name_class:         'h1[itemprop="name"]'
+price_class:        '.iWwpFr span'
+description_class:  '[itemprop="description"] span'
+img_class:          '[itemprop="image"]'
+img_attr:           'src'

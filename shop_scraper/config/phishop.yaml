@@ -1,0 +1,8 @@
+catalog_url:        'https://www.phishop.com/'
+shop_name:          'PhiShop'
+link_class:         '.product-item-photo'
+name_class:         '.page-title'
+price_class:        '.price'
+description_class:  '.product.attibute.description'
+img_class:          '[property="og:image"]'
+img_attr:           'content'

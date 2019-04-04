@@ -1,0 +1,8 @@
+catalog_url:        '' # Enter url of catalog of the shop
+shop_name:          '' # Enter shop name
+link_class:         '' # Enter class, index or data-type for product links
+name_class:         '' # Enter class, index or data-type for product name
+price_class:        '' # Enter class, index or data-type for product price
+description_class:  '' # Enter class, index or data-type for product description
+img_class:          '' # Enter class, index or data-type for product img
+img_attr:           '' # Enter what attribute you need for the img

@@ -1,0 +1,8 @@
+catalog_url:        'https://store.nike.com/us/en_us/?ipp=300'
+shop_name:          'Nike Store'
+link_class:         '.grid-item-image-wrapper a'
+name_class:         '#pdp_product_title'
+price_class:        '[data-test="product-price"]'
+description_class:  '.description-preview'
+img_class:          'img.u-full-width'
+img_attr:           'src'
